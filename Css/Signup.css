@@ -1,0 +1,77 @@
+ul
+{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #2728ff;
+	height: 5vh;
+	margin: 0;
+	padding: 0;
+	list-style-position:inside;
+}
+
+li {
+	float: left;
+	list-style-position:inside;
+
+
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: darkblue;
+}
+#headtext
+{
+	vertical-align: middle;
+	text-float:center;
+	text-align:left;
+	color:white;
+	display:inline-block;
+	float:left;
+	display:inline-block;
+}
+
+.container{
+	padding:16px;
+}
+#signupborder{
+	border:solid 1px grey;
+
+	margin-left:375px;
+	padding:0px;
+
+}
+.signupcontainer
+{
+	margin-left:375px;
+	background-color:#2728ff;
+	color:white;
+}
+#signupborder2{
+	border:solid;
+	width:25%;
+	margin-left:375px;
+}
+.signup{
+	background-color:#2728ff;
+	color:white;
+}
+.SubmitButton{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.inlineThisShit {
+	display: inline-block;
+	vertical-align: top;
+	margin-top:50px;
+}
+.username+password{
+	border: 1px solid lightgrey;
+}

@@ -1,0 +1,40 @@
+.Filterby{
+	align-content:center;
+	display:inline;
+}
+.floatthebutton{
+	text-align:center;
+}
+
+.inlineBlockThis{
+	display:inline-block;
+
+    margin-top:20px;
+	border:lightgrey solid 1px;
+	padding:10px;
+	text-align: center;
+}
+
+.Followees {
+	border: lightgrey 1px solid ;
+	left-margin:800px;
+	display:inline-block;
+	padding:15px;
+	width: 15%;
+	text-align: center;
+}
+
+.inlineThisShit {
+	display: inline-block;
+	vertical-align: top;
+	margin-top:50px;
+}
+
+.bigbox {
+	width: 52%;
+}
+.setpicturesize{
+	height:35px;
+	weidth:30px;
+}
+
