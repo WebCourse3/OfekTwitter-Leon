@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ee6bef-9c29-49ce-9518-fc4b855e6b1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Signin.html" afterPath="$PROJECT_DIR$/Signin.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,18 +41,30 @@
       <file leaf-file-name="Signin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Signin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexwithbootstrap.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexwithbootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="136">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sign-in-with-bootstrap.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -63,8 +75,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="680" column="23" lean-forward="false" selection-start-line="680" selection-start-column="20" selection-end-line="680" selection-end-column="23" />
+            <state relative-caret-position="183">
+              <caret line="1143" column="7" lean-forward="false" selection-start-line="1143" selection-start-column="2" selection-end-line="1143" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -87,6 +99,7 @@
       <find>img-responsive</find>
       <find>textarea</find>
       <find>row</find>
+      <find>border</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,10 +122,11 @@
         <option value="$PROJECT_DIR$/Css/Signup.css" />
         <option value="$PROJECT_DIR$/Css/RealUsers.css" />
         <option value="$PROJECT_DIR$/RealUsers.html" />
-        <option value="$PROJECT_DIR$/Signin.html" />
         <option value="$PROJECT_DIR$/Signup.html" />
         <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/indexwithbootstrap.html" />
+        <option value="$PROJECT_DIR$/Signin.html" />
+        <option value="$PROJECT_DIR$/Sign-in-with-bootstrap.html" />
       </list>
     </option>
   </component>
@@ -122,9 +136,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="178" />
-    <option name="y" value="247" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="136" />
+    <option name="y" value="277" />
     <option name="width" value="1010" />
     <option name="height" value="735" />
   </component>
@@ -188,26 +202,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.indexwithbootstrap.html">
+  <component name="RunManager" selected="JavaScript Debug.Sign-in-with-bootstrap.html">
     <configuration name="Index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterLeon/Index.html" />
-    <configuration name="RealUsers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitter/RealUsers.html" />
+    <configuration name="Sign-in-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterLeon/Sign-in-with-bootstrap.html" />
     <configuration name="Signin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitter/Signin.html" />
     <configuration name="Signup.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitter/Signup.html" />
     <configuration name="indexwithbootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterLeon/indexwithbootstrap.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.RealUsers.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Signup.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Signin.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Index.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Signup.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Signin.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Index.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Signup.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Signin.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.RealUsers.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Signup.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Signin.html" />
       </list>
     </recent_temporary>
   </component>
@@ -226,18 +240,18 @@
       <workItem from="1508768389270" duration="7055000" />
       <workItem from="1508795071658" duration="1729000" />
       <workItem from="1508825074302" duration="1064000" />
-      <workItem from="1508842208325" duration="9729000" />
+      <workItem from="1508842208325" duration="10986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40319000" />
+    <option name="totallyTimeSpent" value="41576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="136" y="277" width="1010" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24647887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -485,14 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="680" column="23" lean-forward="false" selection-start-line="680" selection-start-column="20" selection-end-line="680" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RealUsers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -500,14 +506,6 @@
           <folding>
             <element signature="n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Signin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,10 +517,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1143" column="7" lean-forward="false" selection-start-line="1143" selection-start-column="2" selection-end-line="1143" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
           </folding>
