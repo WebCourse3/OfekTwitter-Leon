@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="71ee6bef-9c29-49ce-9518-fc4b855e6b1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Real-users-with-bootstrap.html" afterPath="$PROJECT_DIR$/Real-users-with-bootstrap.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sign-in-with-bootstrap.html" afterPath="$PROJECT_DIR$/Sign-in-with-bootstrap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sign-up-with-bootstrap.html" afterPath="$PROJECT_DIR$/Sign-up-with-bootstrap.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexwithbootstrap.html" afterPath="$PROJECT_DIR$/indexwithbootstrap.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +24,8 @@
       <file leaf-file-name="RealUsers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RealUsers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="357">
+              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
               <folding>
                 <element signature="n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -30,41 +33,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Index.html">
+      <file leaf-file-name="RealUsers.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/RealUsers.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+            <state relative-caret-position="561">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Signin.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Signin.html">
+      <file leaf-file-name="Real-users-with-bootstrap.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Real-users-with-bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="459">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Signup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="indexwithbootstrap.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexwithbootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -75,8 +70,8 @@
       <file leaf-file-name="Sign-in-with-bootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+            <state relative-caret-position="381">
+              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -87,8 +82,8 @@
       <file leaf-file-name="Sign-up-with-bootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sign-up-with-bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="442">
+              <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -99,7 +94,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="39168">
               <caret line="2304" column="8" lean-forward="false" selection-start-line="2304" selection-start-column="1" selection-end-line="2304" selection-end-column="8" />
               <folding />
             </state>
@@ -140,18 +135,19 @@
         <option value="$PROJECT_DIR$/Css/Css4ofekProject.css" />
         <option value="$PROJECT_DIR$/Users.html" />
         <option value="$PROJECT_DIR$/Css/Signin.css" />
-        <option value="$PROJECT_DIR$/../../../OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
+        <option value="$USER_HOME$/OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
         <option value="$PROJECT_DIR$/signintest1.html" />
         <option value="$PROJECT_DIR$/Css/IndexPage.css" />
         <option value="$PROJECT_DIR$/Css/Signup.css" />
         <option value="$PROJECT_DIR$/Css/RealUsers.css" />
         <option value="$PROJECT_DIR$/RealUsers.html" />
         <option value="$PROJECT_DIR$/Signup.html" />
-        <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/Signin.html" />
-        <option value="$PROJECT_DIR$/Sign-up-with-bootstrap.html" />
-        <option value="$PROJECT_DIR$/Sign-in-with-bootstrap.html" />
+        <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/indexwithbootstrap.html" />
+        <option value="$PROJECT_DIR$/Sign-in-with-bootstrap.html" />
+        <option value="$PROJECT_DIR$/Sign-up-with-bootstrap.html" />
+        <option value="$PROJECT_DIR$/Real-users-with-bootstrap.html" />
       </list>
     </option>
   </component>
@@ -161,11 +157,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="114" />
+    <option name="y" value="268" />
     <option name="width" value="1010" />
-    <option name="height" value="708" />
+    <option name="height" value="902" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -188,23 +184,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitter-Leon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitter-Leon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitter-Leon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitter-Leon" type="462c0819:PsiDirectoryNode" />
               <item name="Css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -218,7 +203,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,26 +217,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Sign-up-with-bootstrap.html">
+  <component name="RunManager" selected="JavaScript Debug.Real-users-with-bootstrap.html">
+    <configuration name="Real-users-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitter-Leon/Real-users-with-bootstrap.html" />
     <configuration name="Sign-in-with-bootstrap.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/Sign-in-with-bootstrap.html" />
     <configuration name="Sign-in-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterLeon/Sign-in-with-bootstrap.html" />
     <configuration name="Sign-up-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/Sign-up-with-bootstrap.html" />
     <configuration name="indexwithbootstrap.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/indexwithbootstrap.html" />
-    <configuration name="indexwithbootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterLeon/indexwithbootstrap.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Sign-up-with-bootstrap.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Sign-up-with-bootstrap.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Sign-up-with-bootstrap.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sign-up-with-bootstrap.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.indexwithbootstrap.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Sign-in-with-bootstrap.html" />
       </list>
     </recent_temporary>
   </component>
@@ -272,16 +257,17 @@
       <workItem from="1508825074302" duration="1064000" />
       <workItem from="1508842208325" duration="10986000" />
       <workItem from="1508858973473" duration="5194000" />
+      <workItem from="1508911705315" duration="6864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46770000" />
+    <option name="totallyTimeSpent" value="53634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="86" width="1010" height="708" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24647887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -305,10 +291,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -328,6 +314,52 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign-up-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39168">
+          <caret line="2304" column="8" lean-forward="false" selection-start-line="2304" selection-start-column="1" selection-end-line="2304" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RealUsers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -469,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
+    <entry file="file://$USER_HOME$/OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
     <entry file="file://$PROJECT_DIR$/Css/Signup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -520,10 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../ishai_asor-master/ishai_asor-master/OfekTwitter/Index.html" />
-    <entry file="file://$PROJECT_DIR$/../../../ishai_asor-master/ishai_asor-master/css/index.css" />
-    <entry file="file://$PROJECT_DIR$/../../../OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/index.html" />
-    <entry file="file://$PROJECT_DIR$/../../../OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
+    <entry file="file://$USER_HOME$/ishai_asor-master/ishai_asor-master/OfekTwitter/Index.html" />
+    <entry file="file://$USER_HOME$/ishai_asor-master/ishai_asor-master/css/index.css" />
+    <entry file="file://$USER_HOME$/OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/index.html" />
+    <entry file="file://$USER_HOME$/OfekTwitter-Omer-master/OfekTwitter-Omer-master/html/signin.html" />
     <entry file="file://$PROJECT_DIR$/signintest1.html" />
     <entry file="file://$PROJECT_DIR$/Css/Normalize.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -546,13 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/RealUsers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/Signin.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -562,24 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
+        <state relative-caret-position="39168">
           <caret line="2304" column="8" lean-forward="false" selection-start-line="2304" selection-start-column="1" selection-end-line="2304" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
           <folding />
         </state>
       </provider>
@@ -592,20 +601,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sign-up-with-bootstrap.html">
+    <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
+    <entry file="file://$PROJECT_DIR$/Signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        <state relative-caret-position="204">
+          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -614,18 +629,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RealUsers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="357">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding>
             <element signature="n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexwithbootstrap.html">
+    <entry file="file://$PROJECT_DIR$/Css/RealUsers.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="561">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign-in-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign-up-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Real-users-with-bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
           </folding>
