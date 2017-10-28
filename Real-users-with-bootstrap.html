@@ -4,6 +4,9 @@
 	<meta charset="UTF-8">
 	<title>real users with bootstrap</title>
 	<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.css">
+	<script src="scripts/test.js"></script>
+
+
 </head>
 
 <nav class="navbar navbar-inverse">
@@ -25,76 +28,77 @@
 <body>
 
 <div class="panel">
-	<div class="col-md-offset-1"> Filter By <textarea placeholder="User name" name="Text1" cols="60" rows="1"></textarea>
+	<div class="col-md-offset-1" > Filter By <input id="input" placeholder="User name" name="Text1" cols="60" rows="1"></input>
 		<button class="btn-primary">OK</button></div>
 </div>
 
 <div class="container">
 	<div class="row">
-	<div class="col-md-10">
-
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="">Follow</button></div>
-			<div>Marty McFly</div>
-		</div>
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="n" >Follow</button></div>
-			<div>James Bond</div>
-		</div>
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="">Unfollow</button></div>
-			<div>Janis Joplin</div>
-		</div>
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="">Unfollow</button></div>
-			<div>Albert Einstein</div>
-		</div>
-
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png">
-			<div><button class="">Follow</button></div>
-			<div>Mark Twain</div>
-		</div>
+	<div id="unFollowersUserList" class="col-md-10">
 
 
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="floatthebutton" name="Follow" type="submit" value="Follow">Follow</button></div>
-			<div>Albert Einstein</div>
-		</div>
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="btn btn-primary" onclick="buttonclick()">follow</button></div>-->
+			<!--<div>Marty McFly</div>-->
+		<!--</div>-->
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="n" >Follow</button></div>-->
+			<!--<div>James Bond</div>-->
+		<!--</div>-->
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="">Unfollow</button></div>-->
+			<!--<div>Janis Joplin</div>-->
+		<!--</div>-->
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="">Unfollow</button></div>-->
+			<!--<div>Albert Einstein</div>-->
+		<!--</div>-->
 
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png" >
-			<div><button class="">Follow</button></div>
-			<div>Frodo</div>
-		</div>
-		<div class="col-md-2 panel panel-default">
-			<img src="images/useravatar.png">
-			<div><button class="">Follow</button></div>
-			<div>Bill Gates</div>
-		</div>
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png">-->
+			<!--<div><button class="">Follow</button></div>-->
+			<!--<div>Mark Twain</div>-->
+		<!--</div>-->
 
-</div>
 
-<div class="col-md-2">
-	<div class="panel panel-default">
-	<div>Folowees</div>
-		<div class="">
-			<img src="images/useravatar.png">
-			<div><button class="">Follow</button></div>
-			<div>Albert Einstein</div>
-		</div>
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="floatthebutton" name="Follow" type="submit" value="Follow">Follow</button></div>-->
+			<!--<div>Albert Einstein</div>-->
+		<!--</div>-->
 
-		<div class="">
-			<img src="images/useravatar.png">
-			<div><button class="">Follow</button></div>
-			<div>Janis Joplin</div>
-		</div>
-</div>
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png" >-->
+			<!--<div><button class="">Follow</button></div>-->
+			<!--<div>Frodo</div>-->
+		<!--</div>-->
+		<!--<div class="col-md-2 panel panel-default">-->
+			<!--<img src="images/useravatar.png">-->
+			<!--<div><button class="">Follow</button></div>-->
+			<!--<div>Bill Gates</div>-->
+		<!--</div>-->
+
+<!--</div>-->
+
+<div id="followersUserList" class="col-md-2">
+	<!--<div class="panel panel-default">-->
+	<!--<div>Folowees</div>-->
+		<!--<div class="">-->
+			<!--<img src="images/useravatar.png">-->
+			<!--<div><button class="">Follow</button></div>-->
+			<!--<div>Albert Einstein</div>-->
+		<!--</div>-->
+
+		<!--<div class="">-->
+			<!--<img src="images/useravatar.png">-->
+			<!--<div><button class="">Follow</button></div>-->
+			<!--<div>Janis Joplin</div>-->
+		<!--</div>-->
+<!--</div>-->
 
 
 	</div>

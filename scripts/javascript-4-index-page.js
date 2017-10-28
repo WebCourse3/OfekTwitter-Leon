@@ -2,16 +2,11 @@ var tweetusers =
 		[
 			{username: 'Bobo', text: 'hello followers!'},
 			{username: 'Elvis', text: 'this exercise is really easy!'},
-			{username: 'Mimi', text: 'I want to go to sleep'}
+			{username: 'Mimi', text: 'I want to go to sleep'},
+			{username: 'Tal', text:'I want to hit myself'}
 
 		];
 
-function showAllTweets(){
-	tweetusers.forEach( function(currentUser){
-		showNewTweet(currentUser);
-
-	});
-}
 
 function erasetext()
 {
@@ -19,49 +14,66 @@ function erasetext()
 }
 
 function addtweetstopage(){
-	erasetext();
+
 
 	var text = document.getElementById("tweet");
-	var newtweet = {username: "leon kukker", text:text.value};
-
+	var newtweet = {username: "leon kukker", text:document.getElementById("tweet").value};
 	tweetusers.push(newtweet);
-	showNewTweet()(newtweet);
+    showthetweet(newtweet);
+    erasetext();
+}
+
+function showthetweet(thetweet) {
+    var allthetweets = document.getElementById("allthetweets");
+
+    // create the divs needed for tweet
+    var newtweetdiv = document.createElement("div");
+    var imagediv = document.createElement("div");
+    var newimage = document.createElement("img");
+    var usernamediv = document.createElement("div");
+    var textdiv = document.createElement("div");
+
+    //styling for the div elements
+    newtweetdiv.classname = "row";
+    imagediv.classname = "col-md-2";
+
+    //image src
+    newimage.src = "images/useravatar.png";
+
+	//shows the user name tweet
+
+    usernamediv.innerHTML = thetweet.username + " says:";
+
+	//shows what the user typed
+    textdiv.innerHTML = thetweet.text;
+
+   //adds the div's themselvs
+    allthetweets.appendChild(newtweetdiv);
+    newtweetdiv.appendChild(imagediv);
+    imagediv.appendChild(newimage);
+    newtweetdiv.appendChild(usernamediv);
+    newtweetdiv.appendChild(textdiv);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
 
-function showNewTweet(currentUser) {
-	var allthetweets = document.getElementById("allthetweets");
 
-	// creates a new row of tweets
-	var newtweetdiv = document.createElement("div");
-	newtweetdiv.classname = "row top-buffer";
-
-	// adds the the row container
-	allthetweets.appendChild(newtweetdiv);
-
-	// create the image container
-	var imagediv = document.createElement("div");
-	imagediv.classname = "col-md-2";
-
-	newtweetdiv.appendChild(imagediv);
-
-	// create an image element
-	var newimage = document.createElement("img");
-	newimage.src = "images/useravatar.png";
-
-	imagediv.appendChild(newimage);
-
-	// create username div
-	var usernamediv = document.createElement("div");
-	usernamediv.classname = "text-bold";
-	usernamediv.innerHTML = currentUser.username + " says:";
-
-	newtweetdiv.appendChild(usernamediv);
-
-	var textdiv = document.createelement("div");
-	textdiv.innerHTML = currentUser.text;
-
-	newtweetdiv.appendChild(textdiv);
-
-}
-window.onload = showAllTweets();
