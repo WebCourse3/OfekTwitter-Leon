@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>real users with bootstrap</title>
 	<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.css">
-	<script src="scripts/test.js"></script>
+	<script src="scripts/Real-Java-4-Sakak.js"></script>
 
 
 </head>
@@ -28,13 +28,13 @@
 <body>
 
 <div class="panel">
-	<div class="col-md-offset-1" > Filter By <input id="input" placeholder="User name" name="Text1" cols="60" rows="1"></input>
-		<button class="btn-primary">OK</button></div>
+	<div class="col-md-offset-1" > Filter By <input id="searchField" placeholder="User name" name="Text1" cols="60" rows="1"></input>
+		<button onclick="filter()" class="btn-primary">OK</button></div>
 </div>
 
 <div class="container">
 	<div class="row">
-	<div id="unFollowersUserList" class="col-md-10">
+	<div id="mainUserList" class="col-md-10">
 
 
 		<!--<div class="col-md-2 panel panel-default">-->
@@ -84,7 +84,8 @@
 
 <!--</div>-->
 
-<div id="followersUserList" class="col-md-2">
+<div id="followees" class="col-md-2 pull-right panel panel panel-default">
+	<div class="text-center">Folowees</div>
 	<!--<div class="panel panel-default">-->
 	<!--<div>Folowees</div>-->
 		<!--<div class="">-->
