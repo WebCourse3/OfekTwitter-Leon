@@ -3,13 +3,13 @@ var users = [
 	{"username":"Marty McFly","status":"follow"},
 	{"username":"Janis Joplin","status":"follow"},
 	{"username":"Albert Eintein","status":"follow"},
-	{"username":"Gengis Khan","status":"follow"},
-	{"username":"Dracula","status":"unfollow"},
+	{"username":"James Franco","status":"follow"},
+	{"username":"DareDevil","status":"unfollow"},
 	{"username":"Forest Gump","status":"follow"},
-	{"username":"Caligula","status":"follow"},
-	{"username":"Winnie Pooh","status":"follow"},
-	{"username":"Obama","status":"follow"},
-	{"username":"Henry the 8th","status":"unfollow"}
+	{"username":"Seth Rogen","status":"follow"},
+	{"username":"JFK","status":"follow"},
+	{"username":"Gal Bergman","status":"follow"},
+	{"username":"Harry Potter","status":"unfollow"}
 ];
 
 function ready() {
