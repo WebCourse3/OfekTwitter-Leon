@@ -1,3 +1,6 @@
+(function () {
+
+
 var tweetUsers =
 	[
 		{username: 'Bobo', text: 'hello followers!'},
@@ -7,11 +10,16 @@ var tweetUsers =
 
 	];
 
-var tweetTemaplte = '<div><div></div><img src=""></div>';
+var tweetTemaplte = '<div><div></div><image src="images/useravatar.png"></image><div></div></div>';
 
 function erasetext() {
 	document.getElementById('tweet').value = '';
 }
+
+	document.getElementById("addTweetButton").addEventListener("click", addtweetstopage);
+
+
+
 
 function addtweetstopage() {
 
@@ -21,6 +29,7 @@ function addtweetstopage() {
 	showthetweet(newtweet);
 	erasetext();
 }
+
 
 function showthetweet(thetweet) {
 	var allthetweets = document.getElementById('allthetweets');
@@ -41,7 +50,7 @@ function showthetweet(thetweet) {
 
 	//shows the user name tweet
 
-	usernamediv.innerHTML = thetweet.username + ' says:';
+	usernamediv.innerText = thetweet.username + ' says:';
 
 	//shows what the user typed
 	textdiv.innerText = thetweet.text;
@@ -55,4 +64,5 @@ function showthetweet(thetweet) {
 
 }
 
+})();
 

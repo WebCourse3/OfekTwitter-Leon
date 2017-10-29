@@ -1,3 +1,6 @@
+(function () {
+
+
 var users = [
 	{'username': 'Marty McFly', 'status': 'follow'},
 	{'username': 'Janis Joplin', 'status': 'follow'},
@@ -138,3 +141,5 @@ function filter() {
 		}
 	}
 }
+
+})();
