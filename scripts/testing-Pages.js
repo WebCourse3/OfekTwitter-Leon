@@ -11,7 +11,7 @@
 
 	function test_group(value){
 		if(value = ){
-			document.write("fuck this shit, write something!")
+			document.write(" write something!")
 		}
 		else{
 			document.write("good boy")
