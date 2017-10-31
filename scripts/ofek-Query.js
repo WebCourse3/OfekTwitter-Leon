@@ -38,8 +38,6 @@
 			case query.substring(0,1) === '.':
 				addClass(nameOfClass);
 				break;
-			// returns a new OfekQuery object containing all ul elements that have exactly 2 children elements
-			case
 
 			// returns an OfekQuery object of all of the div elements in the page
 		default:
@@ -60,6 +58,10 @@
 		return new OfekQuery(query);
 	}
 
+	//filters the elements selected by the user
+	function fitler() {
+
+	}
 
 
 
