@@ -19,6 +19,7 @@
 				this.document.write("there is no text");
 
 			}
+
 		}
 
 	}
