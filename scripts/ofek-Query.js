@@ -1,57 +1,36 @@
 (function () {
 
-	function test_group(name, test_group_function) {
-		var textFromTweet = document.getElementById('tweet').value;
-		assert(textfromtweet, testIfTweetIsWritten);
-
-	}
-
-	function assert(value, name) {
-
-		if (value != '') {
-
-			var assertOne = document.getElementById("testGroup");
-			var mainDiv = document.createElement("div");
-			mainDiv.classname = "bg-danger panel panel-default";
-
-		else
-			{
-				this.document.write("there is no text");
-
-			}
-
-		}
-
-	}
-
-
 	function OfekQuery(query){
 		switch(query) {
-			// returns an OfekQuery object of all div elements that have descendant elements of class "fancy"
-			case query.substring(4,5) === '.':
-				return document.getElementsByClassName(query.substring(4,query.length));
-				break;
 			// returns an OfekQuery object of the element with selected id
 			case query.substring(0,1) === '#':
-				return document.getElementById(query.substring(1,query.length));
+				return document.getElementById(query);
 				break;
 			// adds the selected class to all of the elements of quried class
 			case query.substring(0,1) === '.':
-				addClass(nameOfClass);
+				query = (query - (query.substring(0,1)));
+				return document.getElementsByClassName(query);
 				break;
-
-			// returns an OfekQuery object of all of the div elements in the page
+			case query.indexOf(' ') === true:
+				var splitElem = splitString(query,' ');
+				break;
 		default:
+			document.getElementsByTagName(query);
 
 	}
+		function splitString(stringToSplit, separator) {
+			var arrayOfStrings = stringToSplit.split(separator);
 
-
+			for(i=0; i<=arrayOfStrings.length;i++) {
+				var splitedElem = document.getElementsByTagName(arrayOfStrings[i]);
+				return splitedElem;
+			}
 
 	}
 
 	function addClass(nameOfClass){
+	document.getElementsByClassName(query).setAttribute("class", nameOfClass);
 
-		document.getElementsByTagName(query)[0].setAttribute("class", nameOfClass);
 	}
 
 	//The query option itself.
@@ -59,10 +38,7 @@
 		return new OfekQuery(query);
 	}
 
-	//filters the elements selected by the user
-	function fitler() {
 
-	}
 
 
 

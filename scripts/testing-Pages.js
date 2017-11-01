@@ -1,3 +1,4 @@
+ // testing work in index page.
 (function () {
 	var theTestWindow = document.getElementById("theTestWindow");
 	var testGroupDiv;
