@@ -1,36 +1,51 @@
 (function () {
 
-	function assert(value, name) {
+    var testArea = document.getElementById("somestuff");
+    var someTestGroup;
 
-		value = document.getElementById('addTweetButton').value;
-		value != '';
+    function test_group(testGroupName, asserts) {
+        someTestGroup = document.createElement("div");
+        testArea.appendChild(someTestGroup);
+        someTestGroup.setAttribute("class", "row");
+        someTestGroup.setAttribute("role", "alert");
+        someTestGroup.setAttribute("class", "alert alert-success");
+        someTestGroup.innerHTML = "<label>" + testGroupName + "</label>";
 
-		name = "check if text is not empty";
+        asserts();
+    }
 
-	}
+    function assert(passed, testName) {
+        var assertName = document.createElement("div");
+        assertName.innerHTML = "<label>" + testName + "</label>";
+        assertName.setAttribute("role", "alert");
+        if (passed === true) {
+            assertName.setAttribute("class", "alert alert-success");
+        }
+        else {
+            someTestGroup.setAttribute("class", "alert alert-danger");
+            assertName.setAttribute("class", "alert alert-danger");
+        }
 
-	function test_group(value){
-		if(value = ){
-			document.write(" write something!")
-		}
-		else{
-			document.write("good boy")
-		}
+        someTestGroup.appendChild(assertName);
+    }
 
-	}
+    test_group('second test group', function () {
+        assert(true, "simple successful test");
+        assert(true, "simple unsuccessful test 2");
+        assert(true, "simple unsuccessful test 3");
 
 
-		test_group('first test group', function() {
-	assert(true, "check if text is not empty ");
-	assert(true, "simple successful test 2");
-	assert(false, "simple unsuccessful test");
-});
+    });
 
-test_group('second test group', function() {
-	assert(true, "simple successful test");
-	assert(true, "simple unsuccessful test 2");
-	assert(true, "simple unsuccessful test 3");
-});
+    test_group('second test group', function () {
+        assert(false, "simple successful test");
+        assert(true, "simple unsuccessful test 2");
+        assert(true, "simple unsuccessful test 3");
+
+
+    });
+
+
 
 
 })();

@@ -1,10 +1,5 @@
 (function () {
 
-	function test_group(name, test_group_function) {
-		var textFromTweet = document.getElementById('tweet').value;
-		assert(textfromtweet, testIfTweetIsWritten);
-
-	}
 
 	function assert(value, name) {
 
@@ -59,26 +54,6 @@
 	function $(query){
 		return new OfekQuery(query);
 	}
-
-
-
-
-// returns an OfekQuery object of all of the div elements in the page
-	$('div')
-	// returns an OfekQuery object of all div elements that have descendant elements of class "fancy"
-	$('div .fancy')
-	// returns an OfekQuery object of the element with id "baba-man"
-	$('#baba-man')
-	// adds the "big-box" class to all of the elements of class "pretty-box"
-	$('.pretty-box').addClass('big-box')
-	// returns a new OfekQuery object containing all ul elements that have exactly 2 children elements
-	$('ul').filter(function(el) {
-		return (el.childElementCount === 2);
-	})
-	// returns true if any ul elements have more than 5 children elements
-	$('ul').any(function(el) {
-		return el.childElementCount &gt; 5
-	})
 
 })();
 

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ee6bef-9c29-49ce-9518-fc4b855e6b1f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/OfekQuery.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-Page.html" afterPath="$PROJECT_DIR$/index-Page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/real-Users.html" afterPath="$PROJECT_DIR$/real-Users.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ofek-Query.js" afterPath="$PROJECT_DIR$/scripts/ofek-Query.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/testing-Pages.js" afterPath="$PROJECT_DIR$/scripts/testing-Pages.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +24,8 @@
       <file leaf-file-name="testing-Pages.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/testing-Pages.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="-216">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -32,38 +34,38 @@
       <file leaf-file-name="index-Page.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/index-Page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="-63">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ofek-Query.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ofekquerysakak.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/ofekquerysakak.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-Page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-Page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ofek-Query.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/ofek-Query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OfekQuery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/OfekQuery.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise-4-Part-2.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Css/exercise-4-Part-2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="663">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -87,6 +89,12 @@
       <find>BIGDIV</find>
       <find>r</find>
       <find>.js</find>
+      <find>alert</find>
+      <find>classname</find>
+      <find>operation</find>
+      <find>filterresults</find>
+      <find>filterlistbyid</find>
+      <find>firstfilter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,13 +135,16 @@
         <option value="$PROJECT_DIR$/scripts/JavaScript-4-Ral-Users-Page.js" />
         <option value="$PROJECT_DIR$/scripts/real-Users.js" />
         <option value="$PROJECT_DIR$/scripts/index-Page.js" />
-        <option value="$PROJECT_DIR$/index-Page.html" />
-        <option value="$PROJECT_DIR$/real-Users.html" />
-        <option value="$PROJECT_DIR$/scripts/OfekQuery.js" />
-        <option value="$PROJECT_DIR$/scripts/testing-Pages.js" />
         <option value="$PROJECT_DIR$/Css/exercise-4-Part-2.css" />
         <option value="$PROJECT_DIR$/scripts/FakeTest.js" />
+        <option value="$PROJECT_DIR$/real-Users.html" />
+        <option value="$PROJECT_DIR$/scripts/testing-Pages.js" />
+        <option value="$PROJECT_DIR$/scripts/OfekQuery.js" />
         <option value="$PROJECT_DIR$/scripts/ofek-Query.js" />
+        <option value="$PROJECT_DIR$/scripts/ofek query ishai.js" />
+        <option value="$PROJECT_DIR$/scripts/ofekquerytest.js" />
+        <option value="$PROJECT_DIR$/scripts/ofekquerysakak.js" />
+        <option value="$PROJECT_DIR$/index-Page.html" />
       </list>
     </option>
   </component>
@@ -143,8 +154,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="156" />
+    <option name="y" value="273" />
     <option name="width" value="1010" />
     <option name="height" value="735" />
   </component>
@@ -163,34 +175,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OfekTwitterHomeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHomeNew" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OfekTwitterHomeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHomeNew" type="462c0819:PsiDirectoryNode" />
-              <item name="Css" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OfekTwitterHomeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHomeNew" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OfekTwitterHomeNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfekTwitterHomeNew" type="462c0819:PsiDirectoryNode" />
+              <item name="OfekTwitterHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OfekTwitterHome" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,26 +231,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.real-Users.html">
+  <component name="RunManager" selected="JavaScript Debug.index-Page.html (1)">
     <configuration name="Real-Users-Page.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Real-Users-Page.js" working-dir="$PROJECT_DIR$/scripts" />
     <configuration name="Real-users-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/Real-users-with-bootstrap.html" />
+    <configuration name="index-Page.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/index-Page.html" />
     <configuration name="index-Page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHomeNew/index-Page.html" />
-    <configuration name="index-with-bootstrap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHome/index-with-bootstrap.html" />
     <configuration name="real-Users.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OfekTwitterHomeNew/real-Users.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-with-bootstrap.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Real-Users-Page.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.real-Users.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Real-Users-Page.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.real-Users.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.real-Users.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Real-Users-Page.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-with-bootstrap.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.real-Users.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index-Page.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Real-users-with-bootstrap.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Real-Users-Page.js" />
       </list>
     </recent_temporary>
   </component>
@@ -260,19 +273,21 @@
       <workItem from="1509127055329" duration="22488000" />
       <workItem from="1509261213539" duration="21267000" />
       <workItem from="1509343450363" duration="14979000" />
+      <workItem from="1509384076259" duration="1922000" />
+      <workItem from="1509898433222" duration="11598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89402000" />
+    <option name="totallyTimeSpent" value="102922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17862372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -284,7 +299,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -294,16 +308,16 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17862372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37242472" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37242472" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,46 +328,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/scripts/ofek-Query.js</url>
-          <line>74</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sign-Up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/Signup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/IndexPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/IndexPage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -372,7 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -414,20 +395,8 @@
     <entry file="file://$PROJECT_DIR$/Index.html" />
     <entry file="file://$PROJECT_DIR$/RealUsers.html" />
     <entry file="file://$PROJECT_DIR$/Signin.html" />
-    <entry file="file://$PROJECT_DIR$/sign-In.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sign-Up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sign-In.html" />
+    <entry file="file://$PROJECT_DIR$/sign-Up.html" />
     <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -439,9 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1734">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -453,19 +419,10 @@
     <entry file="file://$PROJECT_DIR$/scripts/bullshit.js" />
     <entry file="file://$PROJECT_DIR$/scripts/Java-4-Sakak.js" />
     <entry file="file://$PROJECT_DIR$/scripts/Real-Users-Page.js" />
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="565" column="1" lean-forward="true" selection-start-line="565" selection-start-column="1" selection-end-line="565" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/Normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="401" column="36" lean-forward="true" selection-start-line="401" selection-start-column="36" selection-end-line="401" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,74 +447,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-Page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="75" column="48" lean-forward="true" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/IndexPage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/OfekQuery.js">
+    <entry file="file://$PROJECT_DIR$/Css/exercise-4-Part-2.css" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/exercise-4-Part-2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="85969">
+          <caret line="5057" column="6" lean-forward="false" selection-start-line="5057" selection-start-column="1" selection-end-line="5057" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/real-Users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1761">
-          <caret line="111" column="46" lean-forward="true" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
+        <state relative-caret-position="396">
+          <caret line="111" column="49" lean-forward="false" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/OfekQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/real-Users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="76" column="57" lean-forward="true" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/testing-Pages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/index-Page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/ofek-Query.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="663">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ofek query ishai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ofekquerytest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1248">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/testing-Pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/index-Page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-Page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ofekquerysakak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
